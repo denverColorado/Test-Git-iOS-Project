@@ -18,6 +18,7 @@
 		B19CABE319687CCA00D4F665 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B19CABE219687CCA00D4F665 /* Default-568h@2x.png */; };
 		B19CABE619687CCA00D4F665 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B19CABE419687CCA00D4F665 /* MainStoryboard.storyboard */; };
 		B19CABE919687CCA00D4F665 /* CCViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B19CABE819687CCA00D4F665 /* CCViewController.m */; };
+		B19CABF11968881600D4F665 /* CCTest.m in Sources */ = {isa = PBXBuildFile; fileRef = B19CABF01968881600D4F665 /* CCTest.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,8 @@
 		B19CABE519687CCA00D4F665 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		B19CABE719687CCA00D4F665 /* CCViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CCViewController.h; sourceTree = "<group>"; };
 		B19CABE819687CCA00D4F665 /* CCViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CCViewController.m; sourceTree = "<group>"; };
+		B19CABEF1968881600D4F665 /* CCTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CCTest.h; sourceTree = "<group>"; };
+		B19CABF01968881600D4F665 /* CCTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CCTest.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +91,8 @@
 				B19CABE419687CCA00D4F665 /* MainStoryboard.storyboard */,
 				B19CABE719687CCA00D4F665 /* CCViewController.h */,
 				B19CABE819687CCA00D4F665 /* CCViewController.m */,
+				B19CABEF1968881600D4F665 /* CCTest.h */,
+				B19CABF01968881600D4F665 /* CCTest.m */,
 				B19CABD319687CCA00D4F665 /* Supporting Files */,
 			);
 			path = "Git Test";
@@ -177,6 +182,7 @@
 				B19CABD919687CCA00D4F665 /* main.m in Sources */,
 				B19CABDD19687CCA00D4F665 /* CCAppDelegate.m in Sources */,
 				B19CABE919687CCA00D4F665 /* CCViewController.m in Sources */,
+				B19CABF11968881600D4F665 /* CCTest.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
